@@ -83,6 +83,11 @@
 .nav-link {
   text-decoration: none;
   color: var(--middle-color);
+  transition: all o.25s ease-in
+}
+
+.nav-link:hover {
+  opacity: 0.7
 }
 
 .quote-btn {
