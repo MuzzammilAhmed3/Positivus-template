@@ -78,15 +78,15 @@
   font-size: 20px;
   line-height: 28px;
   cursor: pointer;
+  transition: all 0.25s ease-in;
 }
 
 .nav-link {
   text-decoration: none;
   color: var(--middle-color);
-  transition: all o.25s ease-in
 }
 
-.nav-link:hover {
+.list-items:hover {
   opacity: 0.7
 }
 
