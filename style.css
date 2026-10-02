@@ -2327,16 +2327,24 @@
   }
 
   .process-card {
-    padding: 25px;
+    padding: 20px;
     border-radius: 25px;
   }
 
+  .process-header {
+    gap: 20px
+    }
+
+  .process-title {
+    gap: 10px
+  }
+
   .process-number {
-    font-size: 38px;
+    font-size: 34px;
   }
 
   .process-name {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .process-toggle {
