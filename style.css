@@ -2525,7 +2525,7 @@
 
   .contact-textarea {
     height: 110px;
-    padding: 13px 15px;
+    padding: 12px 15px;
     font-size: 15px;
   }
 
@@ -2533,6 +2533,7 @@
     width: 90%;
     margin-top: 5px;
     font-size: 18px;
+    padding: 12px 20px;
   }
 
   .footer-section {
