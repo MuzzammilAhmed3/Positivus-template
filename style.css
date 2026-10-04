@@ -2514,10 +2514,7 @@
 
   .form-group {
     gap: 7px;
-  }
-
-  .form-group label {
-    font-size: 17px;
+    width: 90%;
   }
 
   .contact-input {
