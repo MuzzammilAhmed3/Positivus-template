@@ -2507,7 +2507,9 @@
   }
 
   .contact-form {
-    gap: 17px;
+    gap: 18px;
+    display: flex;
+    align-items: center;
   }
 
   .form-group {
@@ -2531,7 +2533,7 @@
   }
 
   .contact-submit {
-    width: 100%;
+    width: 90%;
     margin-top: 5px;
     font-size: 18px;
   }
