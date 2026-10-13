@@ -74,8 +74,8 @@
 }
 
 .list-items {
-  font-weight: 400;
-  font-size: 20px;
+  font-weight: 500;
+  font-size: 22px;
   line-height: 28px;
   cursor: pointer;
   transition: all 0.25s ease-in;
