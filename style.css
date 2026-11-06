@@ -86,7 +86,7 @@
   color: var(--middle-color);
 }
 
-.nav-link:hover {
+.list-items:hover {
   opacity: 0.7;
 }
 
